@@ -1,0 +1,11 @@
+Model Information:
+* title:	FrisMe - A custom 3D printable Frisbee
+* source:	https://sketchfab.com/3d-models/frisme-a-custom-3d-printable-frisbee-051bc2c6b9a644ad8f260875416601f9
+* author:	i.materialise (https://sketchfab.com/imaterialise)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "FrisMe - A custom 3D printable Frisbee" (https://sketchfab.com/3d-models/frisme-a-custom-3d-printable-frisbee-051bc2c6b9a644ad8f260875416601f9) by i.materialise (https://sketchfab.com/imaterialise) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

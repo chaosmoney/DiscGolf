@@ -1,0 +1,11 @@
+Model Information:
+* title:	Disc Golf Frisbee
+* source:	https://sketchfab.com/3d-models/disc-golf-frisbee-49de6f16e32e474293e4deff3522e23d
+* author:	smoketreestudios (https://sketchfab.com/smoketreestudios)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Disc Golf Frisbee" (https://sketchfab.com/3d-models/disc-golf-frisbee-49de6f16e32e474293e4deff3522e23d) by smoketreestudios (https://sketchfab.com/smoketreestudios) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
